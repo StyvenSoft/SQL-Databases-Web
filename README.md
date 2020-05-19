@@ -29,16 +29,24 @@ Exercises
 
 - [x] 5. Where
 
-- [ ] 6. Like I
+- [x] 6. Like I
 
-- [ ] 7. Like II
+- [x] 7. Like II
 
-- [ ] 8. Is Null
+- [x] 8. Is Null
 
-- [ ] 9. Between
+- [x] 9. Between
 
-- [ ] 10. And
+- [x] 10. And
 
-- [ ] 11. Or
+![And screen](And.JPG)
 
-- [ ] 12. Order By
+- [x] 11. Or
+
+![Or screen](Or.JPG)
+
+- [x] 12. Order By
+
+- [x] 13. Limit
+
+- [x] 13. Case
