@@ -25,9 +25,9 @@ Exercises
 
 - [x] 3. As
 
-- [ ] 4. Distinct
+- [x] 4. Distinct
 
-- [ ] 5. Where
+- [x] 5. Where
 
 - [ ] 6. Like I
 
