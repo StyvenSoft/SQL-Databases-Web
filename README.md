@@ -50,3 +50,31 @@ Exercises
 - [x] 13. Limit
 
 - [x] 13. Case
+
+
+
+## LESSON 2 Manipulation
+
+Get up and running with SQL by learning commands to manipulate data stored in relational databases.
+
+Exercises
+
+- [ ] 1. Introduction to SQL
+
+- [ ] 2. Relational Databases
+
+- [ ] 3. Statements
+
+- [ ] 4. Create
+
+- [ ] 5. Insert
+
+- [ ] 6. Select
+
+- [ ] 7. Alter
+
+- [ ] 8. Update
+
+- [ ] 9. Delete
+
+- [ ] 10. Constraints

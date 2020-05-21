@@ -64,4 +64,32 @@ WHERE neighborhood = 'Midtown'
    OR neighborhood = 'Chinatown'; 
 
 
+-- Usando ORDER BYy la DESC palabra clave, podemos ordenar los restaurantes por calificaciones de mayor a menor
+
+SELECT *
+FROM nomnom
+ORDER BY review DESC
+LIMIT 10;
+
+/*
+
+Use una CASEdeclaración para cambiar el sistema de calificación a:
+
+review > 4.5 es extraordinario
+review > 4 es excelente
+review > 3 es bueno
+review > 2 es justo
+Todo lo demás es pobre
+
+*/
+
+SELECT name,
+ CASE
+  WHEN review > 4.5 THEN 'Extraordinary'
+  WHEN review > 4 THEN 'Excellent'
+  WHEN review > 3 THEN 'Good'
+  WHEN review > 2 THEN 'Fair'
+  ELSE 'Poor'
+ END AS 'Review'
+FROM nomnom;
 
