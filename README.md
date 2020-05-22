@@ -59,15 +59,15 @@ Get up and running with SQL by learning commands to manipulate data stored in re
 
 Exercises
 
-- [ ] 1. Introduction to SQL
+- [x] 1. Introduction to SQL
 
-- [ ] 2. Relational Databases
+- [x] 2. Relational Databases
 
-- [ ] 3. Statements
+- [x] 3. Statements
 
-- [ ] 4. Create
+- [x] 4. Create
 
-- [ ] 5. Insert
+- [x] 5. Insert
 
 - [ ] 6. Select
 
