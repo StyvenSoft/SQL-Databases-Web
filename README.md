@@ -69,12 +69,12 @@ Exercises
 
 - [x] 5. Insert
 
-- [ ] 6. Select
+- [x] 6. Select
 
-- [ ] 7. Alter
+- [x] 7. Alter
 
-- [ ] 8. Update
+- [x] 8. Update
 
-- [ ] 9. Delete
+- [x] 9. Delete
 
-- [ ] 10. Constraints
+- [x] 10. Constraints
