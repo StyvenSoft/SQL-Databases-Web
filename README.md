@@ -78,3 +78,28 @@ Exercises
 - [x] 9. Delete
 
 - [x] 10. Constraints
+
+
+## LESSON 3 Aggregate Functions
+
+Learn how to use SQL to perform calculations during a query.
+
+Exercises
+
+- [x] 1. Introduction
+
+- [x] 2. Count
+
+- [x] 3. Sum
+
+- [ ] 4. Max / Min
+
+- [ ] 5. Average
+
+- [ ] 6. Round
+
+- [ ] 7. Group By I
+
+- [ ] 8. Group By II
+
+- [ ] 9. Having
