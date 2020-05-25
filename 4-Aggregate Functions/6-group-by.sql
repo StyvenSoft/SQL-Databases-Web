@@ -49,3 +49,13 @@ FROM movies
 GROUP BY ROUND(imdb_rating)
 ORDER BY ROUND(imdb_rating);
 
+-- La siguiente consulta es equivalente a la anterior:
+
+SELECT ROUND(imdb_rating),
+   COUNT(name)
+FROM movies
+GROUP BY 1
+ORDER BY 1;
+
+-- Escriba la consulta exacta, pero use números de referencia de columna en lugar de nombres de columna después GROUP BY.
+
