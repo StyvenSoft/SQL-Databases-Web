@@ -92,14 +92,19 @@ Exercises
 
 - [x] 3. Sum
 
-- [ ] 4. Max / Min
+- [x] 4. Max / Min
 
-- [ ] 5. Average
+- [x] 5. Average
 
-- [ ] 6. Round
+- [x] 6. Round
 
-- [ ] 7. Group By I
+- [x] 7. Group By I
 
-- [ ] 8. Group By II
+- [x] 8. Group By II
 
-- [ ] 9. Having
+- [x] 9. Having
+
+
+## LESSON 4 Code Challenge: Aggregate Functions
+
+Help the Codeflix streaming video site analyze some of their customer data using SQL aggregates.
