@@ -108,3 +108,31 @@ Exercises
 ## LESSON 4 Code Challenge: Aggregate Functions
 
 Help the Codeflix streaming video site analyze some of their customer data using SQL aggregates.
+
+![Codeflix screen](Codeflix.JPG)
+
+## LESSON 5 Multiple Tables
+
+Learn how to query multiple tables using joins.
+
+Exercises
+
+- [x] 1. Introduction
+
+- [x] 2. Combining Tables Manually
+
+- [x] 3. Combining Tables with SQL
+
+- [x] 4. Inner Joins
+
+![inner-join screen](inner-join.gif)
+
+- [ ] 5. Left Joins
+
+- [ ] 6. Primary Key vs Foreign Key
+
+- [ ] 7. Cross Join
+
+- [ ] 8. Union
+
+- [ ] 9. With
