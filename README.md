@@ -125,13 +125,13 @@ Exercises
 
 - [x] 4. Inner Joins
 
-<img src="inner-join.gif" width="200">
+<img src="inner-join.gif" width="380">
 
 - [x] 5. Left Joins
 
-<img src="left-join.gif" width="200">
+<img src="left-join.gif" width="380">
 
-- [ ] 6. Primary Key vs Foreign Key
+- [x] 6. Primary Key vs Foreign Key
 
 - [ ] 7. Cross Join
 
