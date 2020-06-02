@@ -133,8 +133,8 @@ Exercises
 
 - [x] 6. Primary Key vs Foreign Key
 
-- [ ] 7. Cross Join
+- [x] 7. Cross Join
 
-- [ ] 8. Union
+- [x] 8. Union
 
-- [ ] 9. With
+- [x] 9. With
