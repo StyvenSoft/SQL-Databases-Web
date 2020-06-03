@@ -138,3 +138,32 @@ Exercises
 - [x] 8. Union
 
 - [x] 9. With
+
+
+## LESSON 6 Learn Node SQLite
+
+Learn how to use the sqlite3 node package to perform create, read, update, & delete operations on an SQLite database within JavaScript.
+
+Exercises 
+
+- [x] 1. Introduction
+
+- [ ] 2. Opening A Database
+
+- [ ] 3. Retrieving All Rows
+
+- [ ] 4. Retrieving A Single Row
+
+- [ ] 5. Using Placeholders
+
+- [ ] 6. Using db.run()
+
+- [ ] 7. Handling Errors Gracefully
+
+- [ ] 8. Using db.each()
+
+- [ ] 9. Creating A New Table
+
+- [ ] 10. Serial Queries
+
+- [ ] 11. Wrap Up
