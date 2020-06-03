@@ -148,22 +148,22 @@ Exercises
 
 - [x] 1. Introduction
 
-- [ ] 2. Opening A Database
+- [x] 2. Opening A Database
 
-- [ ] 3. Retrieving All Rows
+- [x] 3. Retrieving All Rows
 
-- [ ] 4. Retrieving A Single Row
+- [x] 4. Retrieving A Single Row
 
-- [ ] 5. Using Placeholders
+- [x] 5. Using Placeholders
 
-- [ ] 6. Using db.run()
+- [x] 6. Using db.run()
 
-- [ ] 7. Handling Errors Gracefully
+- [x] 7. Handling Errors Gracefully
 
-- [ ] 8. Using db.each()
+- [x] 8. Using db.each()
 
-- [ ] 9. Creating A New Table
+- [x] 9. Creating A New Table
 
-- [ ] 10. Serial Queries
+- [x] 10. Serial Queries
 
-- [ ] 11. Wrap Up
+- [x] 11. Wrap Up
